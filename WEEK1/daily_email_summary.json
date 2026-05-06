@@ -1,0 +1,217 @@
+[
+  {
+    "date": "2026-05-05",
+    "total_emails": 16,
+    "high_priority_count": 0,
+    "items": [
+      {
+        "subject": "Competition Launch: ROGII - Wellbore Geology Prediction",
+        "sender": "Kaggle <no-reply@kaggle.com>",
+        "received_at": "2026-05-05T18:41:50+00:00",
+        "summary": "Kaggle competition launch for wellbore geology prediction in partnership with ROGII Inc.",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": [
+          "KhanhKhanhh"
+        ]
+      },
+      {
+        "subject": "Biên lai chuyển tiền qua tài khoản",
+        "sender": "VCBDigibank@info.vietcombank.com.vn",
+        "received_at": "2026-05-05T16:06:04+00:00",
+        "summary": "Notification of money transfer via account",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Upcoming sub-processor change: Supabase removal",
+        "sender": "OpenRouter <noreply@openrouter.ai>",
+        "received_at": "2026-05-05T15:53:05+00:00",
+        "summary": "OpenRouter is removing Supabase from its sub-processors",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": [
+          "khánh"
+        ]
+      },
+      {
+        "subject": "Get better results with prompt engineering",
+        "sender": "Claude Team <no-reply@email.claude.com>",
+        "received_at": "2026-05-05T15:00:17+00:00",
+        "summary": "Improving Claude's responses through prompt engineering",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Biên lai chuyển tiền qua tài khoản",
+        "sender": "VCBDigibank@info.vietcombank.com.vn",
+        "received_at": "2026-05-05T11:17:48+00:00",
+        "summary": "Notification of money transfer via account",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Ollama's Cloud models can now be used inside Claude Desktop",
+        "sender": "Ollama <hello@ollama.com>",
+        "received_at": "2026-05-05T09:08:22+00:00",
+        "summary": "Ollama 0.23 supports Claude Desktop's third party inference, allowing Ollama's Cloud models to be used in Claude Cowork and Claude Code",
+        "action_items": [
+          "Download Ollama 0.23",
+          "Run ollama launch claude-desktop",
+          "Create an Ollama API key"
+        ],
+        "priority": "medium",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Biên lai chuyển tiền qua tài khoản",
+        "sender": "VCBDigibank@info.vietcombank.com.vn",
+        "received_at": "2026-05-05T05:16:05+00:00",
+        "summary": "Notification of money transfer via account",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Biên lai chuyển tiền qua tài khoản",
+        "sender": "VCBDigibank@info.vietcombank.com.vn",
+        "received_at": "2026-05-05T05:12:59+00:00",
+        "summary": "Notification of money transfer via account",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Đơn hàng #260503DVJ2QCV0 đã giao hàng thành công",
+        "sender": "Shopee <info@mail.shopee.vn>",
+        "received_at": "2026-05-05T04:01:44+00:00",
+        "summary": "Đơn hàng #260503DVJ2QCV0 đã giao hàng thành công",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Đơn hàng #260503DWDVHE90 đã giao hàng thành công",
+        "sender": "Shopee <info@mail.shopee.vn>",
+        "received_at": "2026-05-05T04:01:44+00:00",
+        "summary": "Đơn hàng #260503DWDVHE90 đã giao hàng thành công",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Business Analyst tại Hà Nội: 20 việc làm mới nhất phù hợp với bạn",
+        "sender": "TopCV  <toppyai@topcv.vn>",
+        "received_at": "2026-05-05T03:44:58+00:00",
+        "summary": "New job openings for Business Analyst in Hà Nội",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Kaopiz Software_Thư cảm ơn ứng tuyển_Vị trí Intern AI",
+        "sender": "Tuyển dụng Kaopiz <info@hr.kaopiz.com>",
+        "received_at": "2026-05-05T03:24:04+00:00",
+        "summary": "Application for Intern AI position at Kaopiz Software was not successful, but the company will keep the resume for future recruitment",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": [
+          "Phạm Thị Khánh"
+        ]
+      },
+      {
+        "subject": "Welcome to the Claude Platform",
+        "sender": "Claude Team <no-reply@email.claude.com>",
+        "received_at": "2026-05-05T02:28:17+00:00",
+        "summary": "Welcome to the Claude Platform with instructions to get API key and make first request",
+        "action_items": [
+          "Get API key in Claude Console",
+          "Set API key as environment variable",
+          "Make first API call using preferred client"
+        ],
+        "priority": "medium",
+        "people_mentioned": []
+      },
+      {
+        "subject": "AI Engineer tại Technology Center - Viettel Telecom",
+        "sender": "Thông báo việc làm LinkedIn<jobalerts-noreply@linkedin.com>",
+        "received_at": "2026-05-05T02:22:14+00:00",
+        "summary": "Job alert for AI Engineer at Technology Center - Viettel Telecom",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Your Link verification code: 940 130",
+        "sender": "Link <notifications@link.com>",
+        "received_at": "2026-05-05T01:28:24+00:00",
+        "summary": "Verification code for Link account",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Đến lượt bạn, Khánh 🏆",
+        "sender": "LinkedIn <messages-noreply@linkedin.com>",
+        "received_at": "2026-05-05T01:09:09+00:00",
+        "summary": "LinkedIn mời bạn tham gia các trò chơi giải đố hàng ngày để kiểm tra kỹ năng",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": [
+          "Khánh"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "total_emails": 4,
+    "high_priority_count": 1,
+    "items": [
+      {
+        "subject": "Security alert",
+        "sender": "Google <no-reply@accounts.google.com>",
+        "received_at": "2026-05-06T08:42:43+00:00",
+        "summary": "Security alert for potential unauthorized access to Google account khanh207111@gmail.com",
+        "action_items": [
+          "Check account activity",
+          "Secure account now"
+        ],
+        "priority": "high",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Biên lai chuyển tiền qua tài khoản",
+        "sender": "VCBDigibank@info.vietcombank.com.vn",
+        "received_at": "2026-05-06T05:16:19+00:00",
+        "summary": "Notification of money transfer via account",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "Junior/Mid Data Scientist tại KALAPA",
+        "sender": "Thông báo việc làm LinkedIn<jobalerts-noreply@linkedin.com>",
+        "received_at": "2026-05-06T02:22:13+00:00",
+        "summary": "Job alert for Junior/Mid Data Scientist at KALAPA in Hanoi Capital Region",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": []
+      },
+      {
+        "subject": "✍️ Mình đã trở thành người viết như thế nào?",
+        "sender": "\"Chi Nguyen (The Present Writer)\" <baihocthutu@substack.com>",
+        "received_at": "2026-05-06T02:05:21+00:00",
+        "summary": "The writer shares their experience of being sick and finding comfort in reading physical books",
+        "action_items": [],
+        "priority": "low",
+        "people_mentioned": [
+          "Chi Nguyen"
+        ]
+      }
+    ]
+  }
+]
