@@ -1,1 +1,4 @@
 WEEK1/.env
+__pycache__/
+WEEK1/__pycache__/
+WEEK1/daily_email_summary.json
